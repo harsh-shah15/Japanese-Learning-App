@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Japanese Learning</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_familyMembers">Family</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_greetings">Greetings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
